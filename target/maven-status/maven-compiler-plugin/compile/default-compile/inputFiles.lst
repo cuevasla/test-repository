@@ -1,0 +1,10 @@
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/controllers/BookController.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/repositories/BookRepository.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/services/BookService.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/configurations/RestExceptionHandler.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/repositories/entities/BookEntity.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/exceptions/NotFoundException.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/models/Book.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/CrudApplication.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/mappers/BookMapper.java
+/Users/paloit2023/Documents/Repositories/Playa/pruebas/test-repository/src/main/java/com/crudproject/crud/services/ICrudTemplate.java

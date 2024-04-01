@@ -1,0 +1,10 @@
+com/crudproject/crud/models/Book.class
+com/crudproject/crud/controllers/BookController.class
+com/crudproject/crud/services/BookService.class
+com/crudproject/crud/configurations/RestExceptionHandler.class
+com/crudproject/crud/repositories/entities/BookEntity.class
+com/crudproject/crud/services/ICrudTemplate.class
+com/crudproject/crud/mappers/BookMapper.class
+com/crudproject/crud/CrudApplication.class
+com/crudproject/crud/exceptions/NotFoundException.class
+com/crudproject/crud/repositories/BookRepository.class
